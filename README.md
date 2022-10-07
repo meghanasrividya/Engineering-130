@@ -31,3 +31,19 @@ Description what has been done in week 1
 - **Product Owner** : Product Owner is a person who decides what software needs to be built by the team.He is the person who creates Product Backlog.He is the primary contact on behalf of the customer for the product requirements for the development team
 - **Scrum Master** : Scrum master is a person who facilitates the entire process.He is responsible for the communication between the team to keep track of the projects.
 - **Team** : Development team are the people who build what is asked by the product owner.
+### Important Ceremonies in Scrum
+- **Sprint Planning Meeting** : A Sprint Planning Meeting  is attended by Product Owner , Scrum Master , Development team to discuss and decide what backlog items are handled in the next sprint.
+- **Daily StandUp Meeting** : It is conducted every 24 hours during the sprint , and is attended by Product Owner , Scrum Master , Development team.In this each team member shares 
+  - What did they do yesterday?
+  - What will they do today?
+  - Any Blockers?
+- **Sprint Review** : It is an informal meeting which is held at the end of each sprint.In this meeting scrum team showcase what they have accomplished in the sprint.
+- **Sprint Retrospective Meeting** : It is conducted after the sprint to discuss
+  - What went well in the sprint?
+  - What did not went well today?
+  - What can be improved ?
+  This is done to improve the next sprints.
+  ### Scrum Artifacts
+  - **Product Backlog** :It is the prioritised list of the work for the development team that is derived from its requirements.It is created by Product Owner.
+  - **Sprint Backlog** :It is the list of selected items from the product backlog to complete during the sprint.
+  - **Product Increment** :
