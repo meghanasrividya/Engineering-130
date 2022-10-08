@@ -11,7 +11,7 @@ Description what has been done in week 1
 ## Tips to make good presentation
 - Should include clear and bigger pictures on the slides , minimizing the text .
 - Should not sound like as we are reading the script.
-- Should be confident and smile while presenting.
+- Should be confident and  smile while presenting.
 - Should maintain eye contact and a good body language.
 - Should dress professionally
 
@@ -21,8 +21,20 @@ Description what has been done in week 1
 - Prepare good elevator pitch to answer the first question
    - Tell me about yourself?
 - Research about the organisation you are applying for
+   - What they do?
    - What does their company culture like?
-   - Who are the key players of the organisation
+   - Who are the key players of the organisation?
+   - What are the company values?
+   - What are they looking for in an employee?
+- Research about the person who is interviewing you
+   - Go through his LinkedIn profile
+- Prepare to questions at the end of the interview ( Ask 2-3 questions)
+    - What do you personally like most about working for this organisation?
+    - What do you find most challenging about working for this organisation?
+    - How would you describe your organisation’s culture?
+    - What have past employees done to succeed in this position?
+    - What does a typical day look like in this role?
+    - What would you expect me to have achieved after 6 or 12 months in this role?
 
 ## What is Agile Methodoloy 
 - Agile methodology is an iterative and incremental approach .
