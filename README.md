@@ -119,6 +119,14 @@ Description what has been done in week 1
   - Step 3: To check whether the Python has been downloaded successfully. click on the windows, search and click on windows powershell. Type the command python --version.It should display the version of the python downloaded.
   
   ![image](https://user-images.githubusercontent.com/97250268/194722783-3dff28f9-0b76-417d-b0aa-f35e4db5407a.png)
+  
+  ## How to install Python on windows?
+  
+  Follow the below steps to install pycharm in your machine
+  - Step 1: Go to the website jetbrains.com/pycharm/downloads and click on download button.
+  
+  ![image](https://user-images.githubusercontent.com/97250268/194723054-8efdf6eb-7ca0-400a-80fb-9a021c105ff1.png)
+
 
 
 
