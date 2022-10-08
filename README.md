@@ -4,12 +4,25 @@ Description what has been done in week 1
 ## What makes the good elevator pitch?
 - Its a way of introduction
 - Should cover the qualifications,achievments,goals,hobbies
+- Should cover why you have chosen DevOps as career
+- Should cover the reason for applying for the organisation
 - Should not take more than 2 minutes 
 
 ## Tips to make good presentation
 - Should include clear and bigger pictures on the slides , minimizing the text .
 - Should not sound like as we are reading the script.
-- Should be confident and smile while presenting
+- Should be confident and smile while presenting.
+- Should maintain eye contact and a good body language.
+- Should dress professionally
+
+## Interview Tips
+- Create a good profile including the professional photograph (Make sure you smile in the photograph).
+- Create good LinkedIn profile and GitHub account.
+- Prepare good elevator pitch to answer the first question
+   - Tell me about yourself?
+- Research about the organisation you are applying for
+   - What does their company culture like?
+   - Who are the key players of the organisation
 
 ## What is Agile Methodoloy 
 - Agile methodology is an iterative and incremental approach .
