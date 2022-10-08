@@ -85,14 +85,25 @@ Description what has been done in week 1
  - DevOps is a software development approach with the help of which you can develop superior quality software quickly and with more reliability. It consists of various stages such as continuous development, integration, testing, deployment, and monitoring.
   
   ### Role of DevOps Engineer
-  -DevOps Engineer is somebody who understands the Software Development Lifecycle and has the outright understanding of various automation tools for developing digital pipelines (CI/ CD pipelines).
+  - DevOps Engineer is somebody who understands the Software Development Lifecycle and has the outright understanding of various automation tools for developing digital pipelines (CI/ CD pipelines).
 
--DevOps Engineer works with developers and the IT staff to oversee the code releases. They are either developers who get interested in deployment and network operations or sysadmins who have a passion for scripting and coding and move into the development side where they can improve the planning of test and deployment.
+- DevOps Engineer works with developers and the IT staff to oversee the code releases. They are either developers who get interested in deployment and network operations or sysadmins who have a passion for scripting and coding and move into the development side where they can improve the planning of test and deployment.
 
 ![image](https://user-images.githubusercontent.com/97250268/194721818-20d4e114-0c0c-4677-9134-4f8933e8fbf4.png)
 
+  ### How does it benefit the business?
+ - Ensure faster deployment
+ - Stabilize work environment
+ - Significant improvement in product quality
+ - Automation in repetitive tasks leaves more room for innovation
+ - Promotes agility in your business
+ - Continuous delivery of software
+ - Fast and reliable problem-solving techniques
+ - Transparency leads to high productivity
  
-  
+ ![image](https://user-images.githubusercontent.com/97250268/194722128-a84d5d64-22fa-405d-a520-748e42c24a33.png)
+
+ 
   
 
 
