@@ -77,10 +77,11 @@ Description what has been done in week 1
   ![image](https://user-images.githubusercontent.com/97250268/194720812-cf44abec-7e22-4cc1-ad3d-487bf9e80bbb.png)
   
  ## What is DevOps?
+ - The term DevOps is a combination of two words, namely Development and Operations. DevOps is a practice that allows a single team to manage the entire application development life cycle: development, testing, deployment, and monitoring.
+ 
  
   ![image](https://user-images.githubusercontent.com/97250268/194721573-118d8671-a4f5-4e11-82c0-f01d55b988a1.png)
-
- - The term DevOps is a combination of two words, namely Development and Operations. DevOps is a practice that allows a single team to manage the entire application development life cycle: development, testing, deployment, and monitoring.
+  
  - The ultimate goal of DevOps is to decrease the duration of the system’s development life cycle while delivering features, fixes, and updates frequently in close synchronization with business objectives.
  - DevOps is a software development approach with the help of which you can develop superior quality software quickly and with more reliability. It consists of various stages such as continuous development, integration, testing, deployment, and monitoring.
   
