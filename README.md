@@ -108,7 +108,8 @@ Description what has been done in week 1
   
   Follow the below steps to install python in your machine
   - Step 1: Go to the website python.org/downloads and click on the dowload button as shown in the below screenshot
-  ![image](https://user-images.githubusercontent.com/97250268/194722353-97c97d6a-7efd-46bc-9d42-8397fca640b7.png)
+  
+   ![image](https://user-images.githubusercontent.com/97250268/194722353-97c97d6a-7efd-46bc-9d42-8397fca640b7.png)
 
 
 
