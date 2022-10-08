@@ -27,7 +27,7 @@ Description what has been done in week 1
    - What are the company values?
    - What are they looking for in an employee?
 - Research about the person who is interviewing you
-   - Go through his LinkedIn profile
+   - Go through his/her LinkedIn profile
 - Prepare to questions at the end of the interview ( Ask 2-3 questions)
     - What do you personally like most about working for this organisation?
     - What do you find most challenging about working for this organisation?
