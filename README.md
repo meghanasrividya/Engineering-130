@@ -120,12 +120,17 @@ Description what has been done in week 1
   
   ![image](https://user-images.githubusercontent.com/97250268/194722783-3dff28f9-0b76-417d-b0aa-f35e4db5407a.png)
   
-  ## How to install Python on windows?
+  ## How to install Pycharm on windows?
   
   Follow the below steps to install pycharm in your machine
   - Step 1: Go to the website jetbrains.com/pycharm/downloads and click on download button.
   
   ![image](https://user-images.githubusercontent.com/97250268/194723054-8efdf6eb-7ca0-400a-80fb-9a021c105ff1.png)
+  
+  - Step 2: Once executable file is downloaded, double click on the file. Once you see the below screen , you are ready to go!
+   
+   ![image](https://user-images.githubusercontent.com/97250268/194723369-fcbf669e-0744-4ec7-a957-29feb26bc23d.png)
+
 
 
 
