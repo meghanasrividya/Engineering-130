@@ -111,6 +111,14 @@ Description what has been done in week 1
   - Step 1: Go to the website python.org/downloads and click on the dowload button as shown in the below screenshot
   
    ![image](https://user-images.githubusercontent.com/97250268/194722353-97c97d6a-7efd-46bc-9d42-8397fca640b7.png)
+   
+  - Step 2: Once the Python is downloaded, double click on the executable file then installation window pops up.Make sure you click on the check box "Add python to path" and then click on Install Now 
+   
+   ![image](https://user-images.githubusercontent.com/97250268/194722594-d39b5c17-db57-4452-a7e2-4d53c38b40ce.png)
+
+  - Step 3: To check whether the Python has been downloaded successfully. click on the windows, search and click on windows powershell. Type the command python --version.It should display the version of the python downloaded.
+  
+  ![image](https://user-images.githubusercontent.com/97250268/194722783-3dff28f9-0b76-417d-b0aa-f35e4db5407a.png)
 
 
 
