@@ -142,7 +142,7 @@ Description what has been done in week 1
   
   ![image](https://user-images.githubusercontent.com/97250268/194723775-735f02bd-eb95-494e-b79c-936a7aeab17e.png)
   
-  - Step 4: Below window pops up. Click on the "New" button and add the python path to the new variable you are creating and restart the computer
+  - Step 4: Below window pops up. Click on the "New" button and add the python path to the new variable you are creating and restart the machine
    
    ![image](https://user-images.githubusercontent.com/97250268/194723967-4d3d9644-46f8-4f83-88e5-0ea75979df67.png)
 
