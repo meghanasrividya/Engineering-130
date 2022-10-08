@@ -74,5 +74,5 @@ Description what has been done in week 1
   - **Product Increment** :In scrum, a product increment is whatever you previously built, plus anything new you just finished in the latest sprint, all integrated, tested, and ready to be delivered or deployed.
  ### Three pillers of Scrum:
  The three pillars of Scrum that uphold every implementation of empirical process control are: Transparency, Inspection, and Adaptation
- ![image](https://user-images.githubusercontent.com/97250268/194720812-cf44abec-7e22-4cc1-ad3d-487bf9e80bbb.png)
+  ![image](https://user-images.githubusercontent.com/97250268/194720812-cf44abec-7e22-4cc1-ad3d-487bf9e80bbb.png)
 
