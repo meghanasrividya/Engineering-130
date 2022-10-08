@@ -131,6 +131,17 @@ Description what has been done in week 1
    
    ![image](https://user-images.githubusercontent.com/97250268/194723369-fcbf669e-0744-4ec7-a957-29feb26bc23d.png)
 
+   ## How to add a variable to path in your OS ?
+   
+  - Step 1: Click on the windows, search and click on "Edit the system Environment variables".
+  - Step 2: Click on the "Enviroment Variables" 
+  
+  ![image](https://user-images.githubusercontent.com/97250268/194723605-868f19fc-737b-4614-8917-626e06336f56.png)
+  
+  - Step 3: Below window pops up.Click on the "path" variable under the "System Variables" section
+  
+  ![image](https://user-images.githubusercontent.com/97250268/194723775-735f02bd-eb95-494e-b79c-936a7aeab17e.png)
+
 
 
 
