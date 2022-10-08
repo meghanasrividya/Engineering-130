@@ -75,4 +75,27 @@ Description what has been done in week 1
  ### Three pillers of Scrum:
  The three pillars of Scrum that uphold every implementation of empirical process control are: Transparency, Inspection, and Adaptation
   ![image](https://user-images.githubusercontent.com/97250268/194720812-cf44abec-7e22-4cc1-ad3d-487bf9e80bbb.png)
+  
+ ## What is DevOps?
+ 
+  ![image](https://user-images.githubusercontent.com/97250268/194721573-118d8671-a4f5-4e11-82c0-f01d55b988a1.png)
+
+ - The term DevOps is a combination of two words, namely Development and Operations. DevOps is a practice that allows a single team to manage the entire application development life cycle: development, testing, deployment, and monitoring.
+ - The ultimate goal of DevOps is to decrease the duration of the system’s development life cycle while delivering features, fixes, and updates frequently in close synchronization with business objectives.
+ - DevOps is a software development approach with the help of which you can develop superior quality software quickly and with more reliability. It consists of various stages such as continuous development, integration, testing, deployment, and monitoring.
+  
+  ### Role of DevOps Engineer
+  -DevOps Engineer is somebody who understands the Software Development Lifecycle and has the outright understanding of various automation tools for developing digital pipelines (CI/ CD pipelines).
+
+-DevOps Engineer works with developers and the IT staff to oversee the code releases. They are either developers who get interested in deployment and network operations or sysadmins who have a passion for scripting and coding and move into the development side where they can improve the planning of test and deployment.
+
+![image](https://user-images.githubusercontent.com/97250268/194721818-20d4e114-0c0c-4677-9134-4f8933e8fbf4.png)
+
+ 
+  
+  
+
+
+
+
 
